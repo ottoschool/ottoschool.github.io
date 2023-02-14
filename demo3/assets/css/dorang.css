@@ -5151,8 +5151,9 @@ input[type="button"].btn-block {
 }
 
 .card-img {
-  width: 100%;
-  border-radius: calc(0.25rem - 1px);
+  height: 50%;
+  width: 50%;
+  border-radius: calc(0.15rem - 1px);
 }
 
 .card-img-top {
@@ -11006,7 +11007,7 @@ a:hover {
 }
 
 .card .card-img {
-  width: 100%;
+  width: 70%;
   border-radius: 0.25rem;
 }
 
@@ -11500,7 +11501,7 @@ a:hover {
   min-height: 600px;
   text-align: center;
   color: #fff;
-  background-image: url(../imgs/header.jpg);
+  background-image: url(../imgs/header.gif);
   background-size: cover;
   background-position: center;
   -webkit-transition: .2s;
@@ -11627,12 +11628,12 @@ body {
 
 /* Conatct section */
 .contact-section {
-  padding-top: 120px;
+  padding-top: 900px;
   z-index: 990;
   position: relative;
   text-align: center;
   color: #fff;
-  background-image: url(../imgs/footer.jpg);
+  background-image: url(https://media.tenor.com/UpTzOIi2z-sAAAAC/cat-the-cat.gif);
   background-size: cover;
   background-position: bottom;
 }
@@ -11696,7 +11697,7 @@ body.light-theme .header {
 
 body.light-theme .header .overlay {
   background-image: -webkit-radial-gradient(48% 42%, 140% 110%, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.93), #fff 55%, #fff 200%);
-  background-image: radial-gradient(140% 110% at 48% 42%, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.93), #fff 55%, #fff 200%);
+  background-image: radial-gradient(2000% 250% at 48% 42%, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.93), #fff 55%, #fff 200%);
 }
 
 body.light-theme .header p,
